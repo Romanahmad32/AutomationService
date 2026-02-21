@@ -2,10 +2,7 @@
 
 public class WordReplacementDto
 {
-    public string FirstName { get; set; } = "";
-    public string LastName { get; set; } = "";
-    public string Date { get; set; } = "";
-    public string InsuranceName { get; set; } = "";
-    
+    public string FileName {get; set;}
+    public Dictionary<string, string> ReplacePatterns {get; set;}
 
 }
