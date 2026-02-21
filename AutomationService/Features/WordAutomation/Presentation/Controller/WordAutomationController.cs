@@ -9,11 +9,10 @@ namespace AutomationService.Features.WordAutomation.Presentation.Controller;
 public class WordAutomationController(IWordAutomationService wordAutomationService) : ControllerBase
 {
     [HttpPost]
-    public IActionResult ReplaceWords([FromBody]WordReplacementDto wordReplacementDto)
+    [Route("replaced-document")]
+    public IActionResult GenerateReplacedDocument([FromBody] WordReplacementDto wordReplacementDto)
     {
-
-        var result = wordAutomationService.TestMethod(wordReplacementDto);
-
-        return Ok(result);
+        wordAutomationService.GenerateReplacedDocument(wordReplacementDto);
+        return Ok(true);
     }
 }

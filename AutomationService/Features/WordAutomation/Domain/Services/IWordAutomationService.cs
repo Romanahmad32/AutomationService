@@ -4,5 +4,5 @@ namespace AutomationService.Features.WordAutomation.Domain.Services;
 
 public interface IWordAutomationService
 {
-    string TestMethod(WordReplacementDto wordReplacementDto);
+    public void GenerateReplacedDocument(WordReplacementDto replacementDto);
 }

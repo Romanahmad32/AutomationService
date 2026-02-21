@@ -35,3 +35,13 @@ C:\Users\roman\RiderProjects\AutomationService\AutomationService\bin\Debug\net10
 C:\Users\roman\RiderProjects\AutomationService\AutomationService\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\roman\RiderProjects\AutomationService\AutomationService\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\roman\RiderProjects\AutomationService\AutomationService\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\roman\RiderProjects\AutomationService\AutomationService\bin\Debug\net10.0\Xceed.Document.NET.dll
+C:\Users\roman\RiderProjects\AutomationService\AutomationService\bin\Debug\net10.0\Xceed.Drawing.NET.dll
+C:\Users\roman\RiderProjects\AutomationService\AutomationService\bin\Debug\net10.0\Xceed.Words.NET.dll
+C:\Users\roman\RiderProjects\AutomationService\AutomationService\bin\Debug\net10.0\SkiaSharp.dll
+C:\Users\roman\RiderProjects\AutomationService\AutomationService\bin\Debug\net10.0\System.IO.Packaging.dll
+C:\Users\roman\RiderProjects\AutomationService\AutomationService\bin\Debug\net10.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\roman\RiderProjects\AutomationService\AutomationService\bin\Debug\net10.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\roman\RiderProjects\AutomationService\AutomationService\bin\Debug\net10.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\roman\RiderProjects\AutomationService\AutomationService\bin\Debug\net10.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\roman\RiderProjects\AutomationService\AutomationService\obj\Debug\net10.0\AutomationService.sourcelink.json
